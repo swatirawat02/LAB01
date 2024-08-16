@@ -30,6 +30,6 @@ sub= num1 -num2
 mul= num1 * num2
 div= num1 / num2
 print (sub)
-print(mul)
-print(div)
+print( f"{mul:.2f}")
+print( f" {div:.2f}")
 print (sum)
